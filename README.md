@@ -1,7 +1,6 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/demo/?color=863DD9font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!;+I'm+Danilo+H;" />
 </h1>
-
 ##
 
 <div style="display: inline_block"><br>
