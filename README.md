@@ -1,6 +1,4 @@
-<h1 align=center>
-  <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=863DD9&width=435&lines=Hi!;I'm+Danilo+H;Nothing+to+see+for+now)](https://git.io/typing-svg)"/>
-</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=863DD9&width=435&lines=Hi!;I'm+Danilo+H;Nothing+to+see+for+now" alt="Typing SVG" /></a>
 
 ##
 
@@ -10,7 +8,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
+<br>
 <div> 
   <a href="https://www.instagram.com/nao_dan1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "dani.henriq712@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
