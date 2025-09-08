@@ -1,4 +1,4 @@
-https://readme-typing-svg.herokuapp.com/demo/?color=863DD9&lines=Hi!;I'm+Danilo+H;Nothing+to+see+for+now
+<img href="https://readme-typing-svg.herokuapp.com/demo/?color=863DD9&lines=Hi!;I'm+Danilo+H;Nothing+to+see+for+now"/>
 
 ##
 
