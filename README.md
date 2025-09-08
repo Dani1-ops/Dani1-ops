@@ -17,4 +17,22 @@
 
 <br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dani1-ops&show_icons=true&theme=midnight-purple&include_all_comits=true&locale=pt-br)
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Dani1-ops&show_icons=true&theme=midnight-purple&include_all_comits=true" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dani1-ops&show_icons=true&theme=midnight-purple&include_all_comits=true)
