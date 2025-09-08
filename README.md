@@ -17,4 +17,4 @@
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dani1-ops&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dani1-ops&show_icons=true&theme=onedark)
